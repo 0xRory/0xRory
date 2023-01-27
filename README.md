@@ -1,4 +1,4 @@
-# Hi, My neame is 0xRory
+# Hi, My name is 0xRory
 
 **簡介**
 ![About me](https://img.shields.io/badge/About%20me-000?&logo=About.me&labelColor=000)<br />
